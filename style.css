@@ -1,0 +1,38 @@
+body {
+    background: #1b1b1b;
+    color: #fff;
+    margin-bottom: 200px;
+    font-family: "Garamond", Georgia, serif, 'Noto Color Emoji', 'Apple Color Emoji', 'Segoe UI Emoji';
+    padding-left: 15%;
+    padding-right: 15%;
+    display: block;
+    margin: 8px;
+
+}
+#orkut {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+    border-width: 7px;
+    border: solid;
+    border-color: #fabd2f;  
+}
+#orkut:hover {
+    border: solid;
+    border-radius: 0%;
+    border-width: 3px;
+    border-color: #fabd2f;
+    width: 350px;
+    height: 350px;
+  
+}
+a {
+    text-decoration: underline;
+    color: #fff;
+}
+a:hover {
+    color: #fabd2f;
+}
