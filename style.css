@@ -8,11 +8,11 @@
     border-radius: 100%;
     border-width: 7px;
     border: solid;
-    border-color: #00ffff;  
+    border-color: #ff79c6;  
 }
 #orkut:hover {
     border: solid;
-    border-color: #00ffff;
+    border-color: #ff79c6;
     border-radius: 0%;
     border-width: 3px;
     width: 350px;
@@ -22,14 +22,14 @@
 #contatos,
 a {
     text-decoration: none;
-    color: #00ffff;
+    color: #bd93f9;
 
 }
 a:hover {
-    color: #fabd2f;
+    color: #f1fa8c;
 }
 h1 {
-        color: #9A61AB;
+    color: #bd93f9;
     font-size: 2em;
     font-weight: 650;
 
@@ -39,8 +39,8 @@ body {
     max-width: 750px;
     line-height: 1.5em;
     font-size: 1.3em;
-    background-color: #1b1b1b;
-    color: #FFFFFF;
+    background-color: #282a36;
+    color: #f8f8f2;
     padding: 0 10px;
     font-family: monospace;
     hyphens: auto;
