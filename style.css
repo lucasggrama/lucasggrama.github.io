@@ -25,6 +25,15 @@ a {
     color: #bd93f9;
 
 }
+.post {
+    background-color: #44475a;
+    padding: 0.8em;
+}
+.hora {
+    font-size: smaller;
+    position: relative;
+    margin-left: 80%;
+}
 a:hover {
     color: #f1fa8c;
 }
