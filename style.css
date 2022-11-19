@@ -1,29 +1,11 @@
-
-#orkut {
-    display: block;
-    margin-right: auto;
-    margin-left: auto;
-    width: 300px;
-    height: 300px;
-    border-radius: 100%;
-    border-width: 7px;
-    border: solid;
-    border-color: #ff79c6;  
-}
-#orkut:hover {
-    border: solid;
-    border-color: #ff79c6;
-    border-radius: 0%;
-    border-width: 3px;
-    width: 350px;
-    height: 350px;
-  
-}
 #contatos,
 a {
     text-decoration: none;
     color: #bd93f9;
 
+}
+a:hover {
+    color: #f1fa8c;
 }
 .post {
     background-color: #44475a;
@@ -33,9 +15,6 @@ a {
     font-size: smaller;
     position: relative;
     margin-left: 80%;
-}
-a:hover {
-    color: #f1fa8c;
 }
 h1 {
     color: #bd93f9;
