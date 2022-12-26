@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HUGO.386</title>
-    <link>https://example.com/</link>
+    <link>https://www.lucasggrama.github.io/</link>
     <description>Recent content on HUGO.386</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Dec 2022 16:25:24 -0300</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 16:25:24 -0300</lastBuildDate><atom:link href="https://www.lucasggrama.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sobre mim e contatos</title>
-      <link>https://example.com/about/</link>
+      <link>https://www.lucasggrama.github.io/about/</link>
       <pubDate>Mon, 26 Dec 2022 17:34:24 -0300</pubDate>
       
-      <guid>https://example.com/about/</guid>
+      <guid>https://www.lucasggrama.github.io/about/</guid>
       <description>Estou atualmente trabalhando em Banda Simulator
   Estou aprendendo C/C++ e JavaScript
   Todos os meus projetos estão no meu github
@@ -22,20 +22,20 @@ Email&amp;hellip;.. lucasggrama@protonmail.com</description>
     
     <item>
       <title>Como esse site foi feito</title>
-      <link>https://example.com/post/comosite/</link>
+      <link>https://www.lucasggrama.github.io/post/comosite/</link>
       <pubDate>Mon, 26 Dec 2022 16:25:24 -0300</pubDate>
       
-      <guid>https://example.com/post/comosite/</guid>
+      <guid>https://www.lucasggrama.github.io/post/comosite/</guid>
       <description>Esse site foi gerado usando um software chamada Hugo. Essa ferramenta é um gerador de sites estáticos escrito em Go e open source, ou seja, qualquer um pode analisar e dar sugestões ao seu código. Esse formato faz com que as ferramentas sejam mais seguras e forneçam maior privacidade aos seus usuários.
 O tema escolhido por mim foi o Hugo.386 desenvolvido por maxlefou. Esse tema foi inspirado no MS-dos dando essa cara de anos 90 pro site.</description>
     </item>
     
     <item>
       <title>Ferramentas Que Uso e recomendo</title>
-      <link>https://example.com/post/ferramentas-que-uso/</link>
+      <link>https://www.lucasggrama.github.io/post/ferramentas-que-uso/</link>
       <pubDate>Fri, 23 Dec 2022 16:39:44 -0300</pubDate>
       
-      <guid>https://example.com/post/ferramentas-que-uso/</guid>
+      <guid>https://www.lucasggrama.github.io/post/ferramentas-que-uso/</guid>
       <description>Básico Sistema operacional Atualmente estou usando o Windows juntamente do Fedora com o gestor de janelas i3wm (nos últimos anos tenho preferido usar gestores de janelas por serem mais leves que interfaces gráficas).
 Programação Normalmente uso o Vim e o VScode, as vezes. Porem, tento priorizar o uso do vim.
 Navegador Quando uso o Windows uso o Opera GX já quando uso o Fedora utilizo o Brave.
