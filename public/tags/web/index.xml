@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web on HUGO.386</title>
+    <link>https://example.com/tags/web/</link>
+    <description>Recent content in Web on HUGO.386</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 26 Dec 2022 16:25:24 -0300</lastBuildDate><atom:link href="https://example.com/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Como esse site foi feito</title>
+      <link>https://example.com/post/comosite/</link>
+      <pubDate>Mon, 26 Dec 2022 16:25:24 -0300</pubDate>
+      
+      <guid>https://example.com/post/comosite/</guid>
+      <description>Esse site foi gerado usando um software chamada Hugo. Essa ferramenta é um gerador de sites estáticos escrito em Go e open source, ou seja, qualquer um pode analisar e dar sugestões ao seu código. Esse formato faz com que as ferramentas sejam mais seguras e forneçam maior privacidade aos seus usuários.
+O tema escolhido por mim foi o Hugo.386 desenvolvido por maxlefou. Esse tema foi inspirado no MS-dos dando essa cara de anos 90 pro site.</description>
+    </item>
+    
+  </channel>
+</rss>

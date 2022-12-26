@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software Livre on HUGO.386</title>
+    <link>https://example.com/tags/software-livre/</link>
+    <description>Recent content in Software Livre on HUGO.386</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 23 Dec 2022 16:39:44 -0300</lastBuildDate><atom:link href="https://example.com/tags/software-livre/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ferramentas Que Uso e recomendo</title>
+      <link>https://example.com/post/ferramentas-que-uso/</link>
+      <pubDate>Fri, 23 Dec 2022 16:39:44 -0300</pubDate>
+      
+      <guid>https://example.com/post/ferramentas-que-uso/</guid>
+      <description>Básico Sistema operacional Atualmente estou usando o Windows juntamente do Fedora com o gestor de janelas i3wm (nos últimos anos tenho preferido usar gestores de janelas por serem mais leves que interfaces gráficas).
+Programação Normalmente uso o Vim e o VScode, as vezes. Porem, tento priorizar o uso do vim.
+Navegador Quando uso o Windows uso o Opera GX já quando uso o Fedora utilizo o Brave.
+O que eu evito usar Software Proprietário Eu sempre prefiro usar software livre pela sua:</description>
+    </item>
+    
+  </channel>
+</rss>
