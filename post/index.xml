@@ -5,8 +5,18 @@
     <link>https://lucasggrama.github.io/post/</link>
     <description>Recent content in Posts on HUGO.386</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 26 Dec 2022 16:25:24 -0300</lastBuildDate><atom:link href="https://lucasggrama.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <language>pt</language>
+    <lastBuildDate>Tue, 27 Dec 2022 08:08:08 +0000</lastBuildDate><atom:link href="https://lucasggrama.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Manifesto da Internet</title>
+      <link>https://lucasggrama.github.io/post/manifesto/</link>
+      <pubDate>Tue, 27 Dec 2022 08:08:08 +0000</pubDate>
+      
+      <guid>https://lucasggrama.github.io/post/manifesto/</guid>
+      <description>É surpreendente quantas pessoas igualam a &amp;ldquo;Internet&amp;rdquo; as &amp;ldquo;redes sociais&amp;rdquo;. É como ter acesso a 1.000.000 vezes a Biblioteca de Alexandria todos os dias e estar interessado apenas em acompanhar o que as pessoas estão falando no saguão.
+Jenny Odell, autora de &amp;ldquo;How to Do Nothing&amp;rdquo; diz isso melhor: &amp;ldquo;O vilão aqui não é necessariamente a Internet, ou mesmo a ideia de rede social; é a lógica invasiva das mídias sociais comerciais e seu incentivo financeiro para nos manter em um estado de ansiedade, inveja e distração.</description>
+    </item>
+    
     <item>
       <title>Como esse site foi feito</title>
       <link>https://lucasggrama.github.io/post/comosite/</link>
