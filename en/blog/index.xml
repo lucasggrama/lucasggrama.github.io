@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Lucas Grama</title>
+    <link>https://lucasggrama.github.io/en/blog/</link>
+    <description>Recent content in Blog on Lucas Grama</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 30 Dec 2022 08:08:08 +0000</lastBuildDate><atom:link href="https://lucasggrama.github.io/en/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Feliz Ano Novo</title>
+      <link>https://lucasggrama.github.io/en/blog/ano-novo/</link>
+      <pubDate>Fri, 30 Dec 2022 08:08:08 +0000</pubDate>
+      
+      <guid>https://lucasggrama.github.io/en/blog/ano-novo/</guid>
+      <description>Feliz Ano novo e um prospero 2023 para todos vocês
+ Ano que vem vou tentar escrever mais nesse blog e também quero aprender C++ e Java</description>
+    </item>
+    
+    <item>
+      <title>Manifesto da Internet</title>
+      <link>https://lucasggrama.github.io/en/blog/manifesto/</link>
+      <pubDate>Tue, 27 Dec 2022 08:08:08 +0000</pubDate>
+      
+      <guid>https://lucasggrama.github.io/en/blog/manifesto/</guid>
+      <description>É surpreendente quantas pessoas igualam a internet com as redes sociais. É como ter acesso a 1.000.000 vezes a Biblioteca de Alexandria todos os dias e estar interessado apenas em acompanhar o que as pessoas estão falando no saguão.
+Jenny Odell, autora de &amp;ldquo;How to Do Nothing&amp;rdquo; diz isso melhor: &amp;ldquo;O vilão aqui não é necessariamente a Internet, ou mesmo a ideia de rede social; é a lógica invasiva das mídias sociais comerciais e seu incentivo financeiro para nos manter em um estado de ansiedade, inveja e distração.</description>
+    </item>
+    
+    <item>
+      <title>Ferramentas Que Uso e recomendo</title>
+      <link>https://lucasggrama.github.io/en/blog/ferramentas-que-uso/</link>
+      <pubDate>Fri, 23 Dec 2022 16:39:44 -0300</pubDate>
+      
+      <guid>https://lucasggrama.github.io/en/blog/ferramentas-que-uso/</guid>
+      <description>Básico Sistema operacional Atualmente estou usando o Windows juntamente do Fedora com o gestor de janelas i3wm  (nos últimos anos tenho preferido usar gestores de janelas por serem mais leves que interfaces gráficas).
+Programação Normalmente uso o Vim  e o VScode , as vezes. Porem, tento priorizar o uso do vim.
+Navegador Quando uso o Windows uso o Opera GX  já quando uso o Fedora utilizo o Brave .</description>
+    </item>
+    
+  </channel>
+</rss>

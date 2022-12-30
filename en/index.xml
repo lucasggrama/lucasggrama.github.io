@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ens on Lucas Grama</title>
+    <link>https://lucasggrama.github.io/en/</link>
+    <description>Recent content in Ens on Lucas Grama</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 30 Dec 2022 08:08:08 +0000</lastBuildDate><atom:link href="https://lucasggrama.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>À propos</title>
+      <link>https://lucasggrama.github.io/en/es/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucasggrama.github.io/en/es/about/</guid>
+      <description>Je suis une éponge de mer qui travaille comme cuisinier au ** Krusty Krab **: Le Krusty Krabe est un restaurant de restauration rapide connu pour son burger signature: Le Krabby Patty  Essayez d&amp;rsquo;en faire un vous-même et vous serez aussi heureux que moi. Ma première Krabby Patty  Vous pouvez jeter un œil à la recette ici .</description>
+    </item>
+    
+    <item>
+      <title>Contatos</title>
+      <link>https://lucasggrama.github.io/en/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucasggrama.github.io/en/contact/</guid>
+      <description>   Instagram  …..@lucasggrama
+  Email….. lucasggrama@protonmail.com 
+  </description>
+    </item>
+    
+    <item>
+      <title>Sobre Mim</title>
+      <link>https://lucasggrama.github.io/en/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucasggrama.github.io/en/about/</guid>
+      <description>  Estou atualmente trabalhando em Banda Simulator
+  Estou aprendendo C/C++ e JavaScript
+  Todos os meus projetos estão no meu github
+  Sou voluntario no projeto Enxurrada de Bits 
+  </description>
+    </item>
+    
+  </channel>
+</rss>
