@@ -2,14 +2,16 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>https://lucasggrama.github.io/en/sitemap.xml</loc>
+    <loc>fr/sitemap.xml</loc>
     
       <lastmod>2022-12-30T08:08:08+00:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>https://lucasggrama.github.io/fr/sitemap.xml</loc>
+    <loc>en/sitemap.xml</loc>
+    
+      <lastmod>2022-12-30T08:08:08+00:00</lastmod>
     
   </sitemap>
   

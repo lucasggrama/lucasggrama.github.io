@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web on Pico</title>
+    <link>/fr/tags/web/</link>
+    <description>Recent content in Web on Pico</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Tue, 27 Dec 2022 08:08:08 +0000</lastBuildDate><atom:link href="/fr/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Manifesto da Internet</title>
+      <link>/fr/blog/manifesto/</link>
+      <pubDate>Tue, 27 Dec 2022 08:08:08 +0000</pubDate>
+      
+      <guid>/fr/blog/manifesto/</guid>
+      <description>É surpreendente quantas pessoas igualam a internet com as redes sociais. É como ter acesso a 1.000.000 vezes a Biblioteca de Alexandria todos os dias e estar interessado apenas em acompanhar o que as pessoas estão falando no saguão.
+Jenny Odell, autora de &amp;ldquo;How to Do Nothing&amp;rdquo; diz isso melhor: &amp;ldquo;O vilão aqui não é necessariamente a Internet, ou mesmo a ideia de rede social; é a lógica invasiva das mídias sociais comerciais e seu incentivo financeiro para nos manter em um estado de ansiedade, inveja e distração.</description>
+    </item>
+    
+  </channel>
+</rss>

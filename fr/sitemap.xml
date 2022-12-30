@@ -2,40 +2,261 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lucasggrama.github.io/fr/categories/</loc>
+    <loc>/fr/tags/blog/</loc>
+    <lastmod>2022-12-30T08:08:08+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lucasggrama.github.io/categories/"
+                href="/tags/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lucasggrama.github.io/fr/categories/"
+                href="/fr/tags/blog/"
                 />
   </url><url>
-    <loc>https://lucasggrama.github.io/fr/</loc>
+    <loc>/fr/blog/</loc>
+    <lastmod>2022-12-30T08:08:08+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lucasggrama.github.io/"
+                href="/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lucasggrama.github.io/fr/"
+                href="/fr/blog/"
                 />
   </url><url>
-    <loc>https://lucasggrama.github.io/fr/tags/</loc>
+    <loc>/fr/categories/</loc>
+    <lastmod>2022-12-30T08:08:08+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lucasggrama.github.io/tags/"
+                href="/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lucasggrama.github.io/fr/tags/"
+                href="/fr/categories/"
+                />
+  </url><url>
+    <loc>/fr/categories/computa%C3%A7%C3%A3o/</loc>
+    <lastmod>2022-12-30T08:08:08+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/computa%C3%A7%C3%A3o/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/categories/computa%C3%A7%C3%A3o/"
+                />
+  </url><url>
+    <loc>/fr/blog/ano-novo/</loc>
+    <lastmod>2022-12-30T08:08:08+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blog/ano-novo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/blog/ano-novo/"
+                />
+  </url><url>
+    <loc>/fr/categories/pessoal/</loc>
+    <lastmod>2022-12-30T08:08:08+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/pessoal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/categories/pessoal/"
+                />
+  </url><url>
+    <loc>/fr/</loc>
+    <lastmod>2022-12-30T08:08:08+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/"
+                />
+  </url><url>
+    <loc>/fr/tags/</loc>
+    <lastmod>2022-12-30T08:08:08+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/"
+                />
+  </url><url>
+    <loc>/fr/blog/manifesto/</loc>
+    <lastmod>2022-12-27T08:08:08+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blog/manifesto/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/blog/manifesto/"
+                />
+  </url><url>
+    <loc>/fr/tags/opini%C3%A3o/</loc>
+    <lastmod>2022-12-27T08:08:08+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/opini%C3%A3o/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/opini%C3%A3o/"
+                />
+  </url><url>
+    <loc>/fr/tags/web/</loc>
+    <lastmod>2022-12-27T08:08:08+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/web/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/web/"
+                />
+  </url><url>
+    <loc>/fr/blog/ferramentas-que-uso/</loc>
+    <lastmod>2022-12-23T16:39:44-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blog/ferramentas-que-uso/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/blog/ferramentas-que-uso/"
+                />
+  </url><url>
+    <loc>/fr/tags/software-livre/</loc>
+    <lastmod>2022-12-23T16:39:44-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/software-livre/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/software-livre/"
+                />
+  </url><url>
+    <loc>/fr/es/blog/</loc>
+    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/es/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/es/blog/"
+                />
+  </url><url>
+    <loc>/fr/es/</loc>
+    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/es/"
+                />
+  </url><url>
+    <loc>/fr/es/blog/krabby_patty/</loc>
+    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/es/blog/krabby_patty/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/es/blog/krabby_patty/"
+                />
+  </url><url>
+    <loc>/fr/tags/recipe/</loc>
+    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/recipe/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/recipe/"
+                />
+  </url><url>
+    <loc>/fr/es/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/es/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/es/about/"
+                />
+  </url><url>
+    <loc>/fr/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/contact/"
+                />
+  </url><url>
+    <loc>/fr/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/about/"
                 />
   </url>
 </urlset>

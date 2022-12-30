@@ -2,101 +2,261 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lucasggrama.github.io/tags/blog/</loc>
-    <lastmod>2022-12-30T08:08:08+00:00</lastmod>
-  </url><url>
-    <loc>https://lucasggrama.github.io/en/blog/</loc>
-    <lastmod>2022-12-30T08:08:08+00:00</lastmod>
-  </url><url>
-    <loc>https://lucasggrama.github.io/categories/</loc>
+    <loc>/tags/blog/</loc>
     <lastmod>2022-12-30T08:08:08+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lucasggrama.github.io/fr/categories/"
+                href="/fr/tags/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lucasggrama.github.io/categories/"
+                href="/tags/blog/"
                 />
   </url><url>
-    <loc>https://lucasggrama.github.io/categories/computa%C3%A7%C3%A3o/</loc>
-    <lastmod>2022-12-30T08:08:08+00:00</lastmod>
-  </url><url>
-    <loc>https://lucasggrama.github.io/en/</loc>
-    <lastmod>2022-12-30T08:08:08+00:00</lastmod>
-  </url><url>
-    <loc>https://lucasggrama.github.io/en/blog/ano-novo/</loc>
-    <lastmod>2022-12-30T08:08:08+00:00</lastmod>
-  </url><url>
-    <loc>https://lucasggrama.github.io/</loc>
+    <loc>/blog/</loc>
     <lastmod>2022-12-30T08:08:08+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lucasggrama.github.io/fr/"
+                href="/fr/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lucasggrama.github.io/"
+                href="/blog/"
                 />
   </url><url>
-    <loc>https://lucasggrama.github.io/categories/pessoal/</loc>
-    <lastmod>2022-12-30T08:08:08+00:00</lastmod>
-  </url><url>
-    <loc>https://lucasggrama.github.io/tags/</loc>
+    <loc>/categories/</loc>
     <lastmod>2022-12-30T08:08:08+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lucasggrama.github.io/fr/tags/"
+                href="/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lucasggrama.github.io/tags/"
+                href="/categories/"
                 />
   </url><url>
-    <loc>https://lucasggrama.github.io/en/blog/manifesto/</loc>
-    <lastmod>2022-12-27T08:08:08+00:00</lastmod>
+    <loc>/categories/computa%C3%A7%C3%A3o/</loc>
+    <lastmod>2022-12-30T08:08:08+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/categories/computa%C3%A7%C3%A3o/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/computa%C3%A7%C3%A3o/"
+                />
   </url><url>
-    <loc>https://lucasggrama.github.io/tags/opini%C3%A3o/</loc>
-    <lastmod>2022-12-27T08:08:08+00:00</lastmod>
+    <loc>/blog/ano-novo/</loc>
+    <lastmod>2022-12-30T08:08:08+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/blog/ano-novo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blog/ano-novo/"
+                />
   </url><url>
-    <loc>https://lucasggrama.github.io/tags/web/</loc>
-    <lastmod>2022-12-27T08:08:08+00:00</lastmod>
+    <loc>/categories/pessoal/</loc>
+    <lastmod>2022-12-30T08:08:08+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/categories/pessoal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/pessoal/"
+                />
   </url><url>
-    <loc>https://lucasggrama.github.io/en/blog/ferramentas-que-uso/</loc>
+    <loc>/</loc>
+    <lastmod>2022-12-30T08:08:08+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2022-12-30T08:08:08+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/"
+                />
+  </url><url>
+    <loc>/blog/manifesto/</loc>
+    <lastmod>2022-12-27T08:08:08+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/blog/manifesto/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blog/manifesto/"
+                />
+  </url><url>
+    <loc>/tags/opini%C3%A3o/</loc>
+    <lastmod>2022-12-27T08:08:08+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/opini%C3%A3o/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/opini%C3%A3o/"
+                />
+  </url><url>
+    <loc>/tags/web/</loc>
+    <lastmod>2022-12-27T08:08:08+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/web/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/web/"
+                />
+  </url><url>
+    <loc>/blog/ferramentas-que-uso/</loc>
     <lastmod>2022-12-23T16:39:44-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/blog/ferramentas-que-uso/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blog/ferramentas-que-uso/"
+                />
   </url><url>
-    <loc>https://lucasggrama.github.io/tags/software-livre/</loc>
+    <loc>/tags/software-livre/</loc>
     <lastmod>2022-12-23T16:39:44-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/software-livre/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/software-livre/"
+                />
   </url><url>
-    <loc>https://lucasggrama.github.io/fr/blog/</loc>
+    <loc>/es/blog/</loc>
     <lastmod>2020-06-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/es/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/es/blog/"
+                />
   </url><url>
-    <loc>https://lucasggrama.github.io/fr/</loc>
+    <loc>/es/</loc>
     <lastmod>2020-06-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/es/"
+                />
   </url><url>
-    <loc>https://lucasggrama.github.io/en/es/blog/krabby_patty/</loc>
+    <loc>/es/blog/krabby_patty/</loc>
     <lastmod>2020-06-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/es/blog/krabby_patty/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/es/blog/krabby_patty/"
+                />
   </url><url>
-    <loc>https://lucasggrama.github.io/fr/blog/krabby_patty/</loc>
+    <loc>/tags/recipe/</loc>
     <lastmod>2020-06-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/recipe/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/recipe/"
+                />
   </url><url>
-    <loc>https://lucasggrama.github.io/tags/recipe/</loc>
-    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
+    <loc>/es/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/es/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/es/about/"
+                />
   </url><url>
-    <loc>https://lucasggrama.github.io/en/es/about/</loc>
+    <loc>/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/contact/"
+                />
   </url><url>
-    <loc>https://lucasggrama.github.io/fr/about/</loc>
-  </url><url>
-    <loc>https://lucasggrama.github.io/en/contact/</loc>
-  </url><url>
-    <loc>https://lucasggrama.github.io/en/es/blog/</loc>
-  </url><url>
-    <loc>https://lucasggrama.github.io/en/about/</loc>
+    <loc>/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/about/"
+                />
   </url>
 </urlset>
