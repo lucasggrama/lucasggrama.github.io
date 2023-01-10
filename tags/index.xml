@@ -1,56 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Pico</title>
+    <title>Tags on </title>
     <link>/tags/</link>
-    <description>Recent content in Tags on Pico</description>
+    <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Fri, 30 Dec 2022 08:08:08 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Blog</title>
-      <link>/tags/blog/</link>
-      <pubDate>Fri, 30 Dec 2022 08:08:08 +0000</pubDate>
-      
-      <guid>/tags/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Opinião</title>
-      <link>/tags/opini%C3%A3o/</link>
-      <pubDate>Tue, 27 Dec 2022 08:08:08 +0000</pubDate>
-      
-      <guid>/tags/opini%C3%A3o/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Web</title>
-      <link>/tags/web/</link>
-      <pubDate>Tue, 27 Dec 2022 08:08:08 +0000</pubDate>
-      
-      <guid>/tags/web/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Software Livre</title>
-      <link>/tags/software-livre/</link>
-      <pubDate>Fri, 23 Dec 2022 16:39:44 -0300</pubDate>
-      
-      <guid>/tags/software-livre/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>recipe</title>
-      <link>/tags/recipe/</link>
-      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/recipe/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Sat, 31 Dec 2022 08:08:08 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

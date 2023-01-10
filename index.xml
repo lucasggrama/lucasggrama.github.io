@@ -1,85 +1,65 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pico</title>
+    <title></title>
     <link>/</link>
-    <description>Recent content on Pico</description>
+    <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Fri, 30 Dec 2022 08:08:08 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Jan 2023 12:20:28 -0300</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jogo em JavaScript</title>
+      <link>/projects/banda/</link>
+      <pubDate>Tue, 10 Jan 2023 12:20:28 -0300</pubDate>
+      
+      <guid>/projects/banda/</guid>
+      <description>Projeto de jogo feito sob supervisão do professor Daniel Hasan, com o objetivo de testar os conhecimentos sobre JavaScript.
+O que fizemos ? Fizemos um jogo de música usando HTML, CSS e JavaScript.
+Como jogar ? Escolha uma musica de sua preferencia
+Primeiramente o piano irá tocar a musica. Nesse tempo tente decorar a sequencia corretamente
+Quando o piano parar de tocar tente repetir a sequencia
+Se você tocar a sequencia corretamente no piano você ganhou</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 09 Jan 2023 17:30:37 -0300</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>Instagram …..@lucasggrama
+Email….. lucasggrama@protonmail.com</description>
+    </item>
+    
     <item>
       <title>Feliz Ano Novo</title>
-      <link>/blog/ano-novo/</link>
-      <pubDate>Fri, 30 Dec 2022 08:08:08 +0000</pubDate>
+      <link>/articles/ano-novo/</link>
+      <pubDate>Sat, 31 Dec 2022 08:08:08 +0000</pubDate>
       
-      <guid>/blog/ano-novo/</guid>
+      <guid>/articles/ano-novo/</guid>
       <description>Feliz Ano novo e um prospero 2023 para todos vocês
- Ano que vem vou tentar escrever mais nesse blog e também quero aprender C++ e Java</description>
+Ano que vem vou tentar escrever mais nesse blog e também quero aprender C++ e Java</description>
     </item>
     
     <item>
       <title>Manifesto da Internet</title>
-      <link>/blog/manifesto/</link>
+      <link>/articles/manifesto/</link>
       <pubDate>Tue, 27 Dec 2022 08:08:08 +0000</pubDate>
       
-      <guid>/blog/manifesto/</guid>
+      <guid>/articles/manifesto/</guid>
       <description>É surpreendente quantas pessoas igualam a internet com as redes sociais. É como ter acesso a 1.000.000 vezes a Biblioteca de Alexandria todos os dias e estar interessado apenas em acompanhar o que as pessoas estão falando no saguão.
 Jenny Odell, autora de &amp;ldquo;How to Do Nothing&amp;rdquo; diz isso melhor: &amp;ldquo;O vilão aqui não é necessariamente a Internet, ou mesmo a ideia de rede social; é a lógica invasiva das mídias sociais comerciais e seu incentivo financeiro para nos manter em um estado de ansiedade, inveja e distração.</description>
     </item>
     
     <item>
       <title>Ferramentas Que Uso e recomendo</title>
-      <link>/blog/ferramentas-que-uso/</link>
+      <link>/articles/ferramentas-que-uso/</link>
       <pubDate>Fri, 23 Dec 2022 16:39:44 -0300</pubDate>
       
-      <guid>/blog/ferramentas-que-uso/</guid>
-      <description>Básico Sistema operacional Atualmente estou usando o Windows juntamente do Fedora com o gestor de janelas i3wm  (nos últimos anos tenho preferido usar gestores de janelas por serem mais leves que interfaces gráficas).
-Programação Normalmente uso o Vim  e o VScode , as vezes. Porem, tento priorizar o uso do vim.
-Navegador Quando uso o Windows uso o Opera GX  já quando uso o Fedora utilizo o Brave .</description>
-    </item>
-    
-    <item>
-      <title>Recette du Krabby Patty</title>
-      <link>/es/blog/krabby_patty/</link>
-      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/es/blog/krabby_patty/</guid>
-      <description>Ingrédients : Pour 4 personnes :
- Beaucoup d&amp;rsquo;amour 2 boîtes de chair de crabe 1 œuf légèrement battu Jus de 1/2 citron Chapelure 1 tomate Pain à hamburger Cornichons 1 Oignon 4 feuilles de salade Huile de friture Sel &amp;amp; poivre  Pour la sauce :
- Sauce Worcestershire Ketchup Moutarde  Les étapes :   Dans un saladier, battre 1 œuf puis ajouter la chair de crabe, la chapelure, le jus de citron, le sel et le poivre.</description>
-    </item>
-    
-    <item>
-      <title>À propos</title>
-      <link>/es/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/es/about/</guid>
-      <description>Je suis une éponge de mer qui travaille comme cuisinier au ** Krusty Krab **: Le Krusty Krabe est un restaurant de restauration rapide connu pour son burger signature: Le Krabby Patty  Essayez d&amp;rsquo;en faire un vous-même et vous serez aussi heureux que moi. Ma première Krabby Patty  Vous pouvez jeter un œil à la recette ici .</description>
-    </item>
-    
-    <item>
-      <title>Contatos</title>
-      <link>/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/contact/</guid>
-      <description>   Instagram  …..@lucasggrama
-  Email….. lucasggrama@protonmail.com 
-  </description>
-    </item>
-    
-    <item>
-      <title>Sobre Mim</title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>  Estou atualmente trabalhando em Banda Simulator
-  Estou aprendendo C/C++ e JavaScript
-  Todos os meus projetos estão no meu github
-  Sou voluntario no projeto Enxurrada de Bits 
-  </description>
+      <guid>/articles/ferramentas-que-uso/</guid>
+      <description>Básico Sistema operacional Atualmente estou usando o Windows juntamente do Slackware com a interface gráfica DWM (nos últimos anos tenho preferido usar gestores de janelas por serem mais leves que interfaces gráficas).
+Programação Normalmente uso o Vim e o VScode, as vezes. Porem, tento priorizar o uso do vim.
+Navegador Quando uso o Windows uso o Opera GX já quando uso o Fedora utilizo o Brave.
+O que eu evito usar Software Proprietário Eu sempre prefiro usar software livre pela sua:</description>
     </item>
     
   </channel>
