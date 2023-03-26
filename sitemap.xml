@@ -2,52 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
-    <lastmod>2023-01-10T12:20:28-03:00</lastmod>
+    <loc>/contact/</loc>
+    <lastmod>2023-03-26T14:12:07-03:00</lastmod>
   </url><url>
-    <loc>/projects/banda/</loc>
-    <lastmod>2023-01-10T12:20:28-03:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2023-03-26T13:43:32-03:00</lastmod>
+  </url><url>
+    <loc>/projects/jogo/</loc>
+    <lastmod>2023-03-26T13:43:32-03:00</lastmod>
   </url><url>
     <loc>/projects/</loc>
-    <lastmod>2023-01-10T12:20:28-03:00</lastmod>
-  </url><url>
-    <loc>/contact/</loc>
-    <lastmod>2023-01-09T17:30:37-03:00</lastmod>
+    <lastmod>2023-03-26T13:43:32-03:00</lastmod>
   </url><url>
     <loc>/articles/</loc>
-    <lastmod>2022-12-31T08:08:08+00:00</lastmod>
-  </url><url>
-    <loc>/tags/blog/</loc>
-    <lastmod>2022-12-31T08:08:08+00:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
-    <lastmod>2022-12-31T08:08:08+00:00</lastmod>
   </url><url>
-    <loc>/categories/computa%C3%A7%C3%A3o/</loc>
-    <lastmod>2022-12-31T08:08:08+00:00</lastmod>
-  </url><url>
-    <loc>/articles/ano-novo/</loc>
-    <lastmod>2022-12-31T08:08:08+00:00</lastmod>
-  </url><url>
-    <loc>/categories/pessoal/</loc>
-    <lastmod>2022-12-31T08:08:08+00:00</lastmod>
+    <loc>/contact/</loc>
   </url><url>
     <loc>/tags/</loc>
-    <lastmod>2022-12-31T08:08:08+00:00</lastmod>
-  </url><url>
-    <loc>/articles/manifesto/</loc>
-    <lastmod>2022-12-27T08:08:08+00:00</lastmod>
-  </url><url>
-    <loc>/tags/opini%C3%A3o/</loc>
-    <lastmod>2022-12-27T08:08:08+00:00</lastmod>
-  </url><url>
-    <loc>/tags/web/</loc>
-    <lastmod>2022-12-27T08:08:08+00:00</lastmod>
-  </url><url>
-    <loc>/articles/ferramentas-que-uso/</loc>
-    <lastmod>2022-12-23T16:39:44-03:00</lastmod>
-  </url><url>
-    <loc>/tags/software-livre/</loc>
-    <lastmod>2022-12-23T16:39:44-03:00</lastmod>
   </url>
 </urlset>

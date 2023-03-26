@@ -5,61 +5,28 @@
     <link>/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 10 Jan 2023 12:20:28 -0300</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Jogo em JavaScript</title>
-      <link>/projects/banda/</link>
-      <pubDate>Tue, 10 Jan 2023 12:20:28 -0300</pubDate>
-      
-      <guid>/projects/banda/</guid>
-      <description>Projeto de jogo feito sob supervisão do professor Daniel Hasan, com o objetivo de testar os conhecimentos sobre JavaScript.
-O que fizemos ? Fizemos um jogo de música usando HTML, CSS e JavaScript.
-Como jogar ? Escolha uma musica de sua preferencia
-Primeiramente o piano irá tocar a musica. Nesse tempo tente decorar a sequencia corretamente
-Quando o piano parar de tocar tente repetir a sequencia
-Se você tocar a sequencia corretamente no piano você ganhou</description>
-    </item>
-    
+    <lastBuildDate>Sun, 26 Mar 2023 13:43:32 -0300</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
       <link>/contact/</link>
-      <pubDate>Mon, 09 Jan 2023 17:30:37 -0300</pubDate>
+      <pubDate>Sun, 26 Mar 2023 14:12:07 -0300</pubDate>
       
       <guid>/contact/</guid>
-      <description>Instagram …..@lucasggrama
-Email….. lucasggrama@protonmail.com</description>
+      <description>teste</description>
     </item>
     
     <item>
-      <title>Feliz Ano Novo</title>
-      <link>/articles/ano-novo/</link>
-      <pubDate>Sat, 31 Dec 2022 08:08:08 +0000</pubDate>
+      <title>Jogo em JavaScript</title>
+      <link>/projects/jogo/</link>
+      <pubDate>Sun, 26 Mar 2023 13:43:32 -0300</pubDate>
       
-      <guid>/articles/ano-novo/</guid>
-      <description>Feliz Ano novo e um prospero 2023 para todos vocês
-Ano que vem vou tentar escrever mais nesse blog e também quero aprender C++ e Java</description>
-    </item>
-    
-    <item>
-      <title>Manifesto da Internet</title>
-      <link>/articles/manifesto/</link>
-      <pubDate>Tue, 27 Dec 2022 08:08:08 +0000</pubDate>
-      
-      <guid>/articles/manifesto/</guid>
-      <description>É surpreendente quantas pessoas igualam a internet com as redes sociais. É como ter acesso a 1.000.000 vezes a Biblioteca de Alexandria todos os dias e estar interessado apenas em acompanhar o que as pessoas estão falando no saguão.
-Jenny Odell, autora de &amp;ldquo;How to Do Nothing&amp;rdquo; diz isso melhor: &amp;ldquo;O vilão aqui não é necessariamente a Internet, ou mesmo a ideia de rede social; é a lógica invasiva das mídias sociais comerciais e seu incentivo financeiro para nos manter em um estado de ansiedade, inveja e distração.</description>
-    </item>
-    
-    <item>
-      <title>Ferramentas Que Uso e recomendo</title>
-      <link>/articles/ferramentas-que-uso/</link>
-      <pubDate>Fri, 23 Dec 2022 16:39:44 -0300</pubDate>
-      
-      <guid>/articles/ferramentas-que-uso/</guid>
-      <description>Básico Sistema operacional Atualmente estou usando o Windows juntamente do Slackware com a interface gráfica DWM (nos últimos anos tenho preferido usar gestores de janelas por serem mais leves que interfaces gráficas).
-Programação Normalmente uso o Vim e o VScode, as vezes. Porem, tento priorizar o uso do vim.
-Navegador Quando uso o Windows uso o Opera GX já quando uso o Fedora utilizo o Brave.
-O que eu evito usar Software Proprietário Eu sempre prefiro usar software livre pela sua:</description>
+      <guid>/projects/jogo/</guid>
+      <description>Projeto de jogo feito sob supervisão do professor Daniel Hasan, com o objetivo de testar os conhecimentos sobre JavaScript. O que fizemos ?
+Fizemos um jogo de música usando HTML, CSS e JavaScript. Como jogar ?
+Escolha uma musica de sua preferencia
+Primeiramente o piano irá tocar a musica. Nesse tempo tente decorar a sequencia corretamente
+Quando o piano parar de tocar tente repetir a sequencia
+Se você tocar a sequencia corretamente no piano você ganhou</description>
     </item>
     
   </channel>
