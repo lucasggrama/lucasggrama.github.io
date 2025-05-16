@@ -1,4 +1,4 @@
-import { Briefcase, Code, FileJson, User } from "lucide-react";
+import { Briefcase, Code, FileJson } from "lucide-react";
 
 export const AboutSection = () => {
   return (

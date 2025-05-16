@@ -1,18 +1,8 @@
-import {
-  Instagram,
-  Linkedin,
-  Mail,
-  MapPin,
-  Send,
-  Twitch,
-  Twitter,
-} from "lucide-react";
-import { cn } from "../lib/utils";
+import { Linkedin, Mail, MapPin } from "lucide-react";
 import { useToast } from "../hooks/use-toast";
-import { useState } from "react";
 
 export const ContactSection = () => {
-  const { toast } = useToast();
+  useToast();
 
   return (
     <section id="contact" className="py-24 px-4 bg-secondary/30">
